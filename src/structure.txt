@@ -1,0 +1,14 @@
+src/
+  assets/           # For images (pizza.jpg, salad.jpg, etc.)
+  components/
+    Header.js
+    Footer.js
+    CartSidebar.js
+  pages/
+    Home.js
+    Menu.js
+    About.js
+    Contact.js
+  App.js
+  index.js
+  index.css
