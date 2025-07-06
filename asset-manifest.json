@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plswork/static/css/main.032ca359.css",
+    "main.js": "/plswork/static/js/main.f90c2acc.js",
+    "static/js/453.b924f6b6.chunk.js": "/plswork/static/js/453.b924f6b6.chunk.js",
+    "static/media/restaurant.jpg": "/plswork/static/media/restaurant.eae414eca9e70a52d9a0.jpg",
+    "static/media/salad.jpg": "/plswork/static/media/salad.8aa64142d154b512899d.jpg",
+    "static/media/burger.jpg": "/plswork/static/media/burger.69c06444d7b57a37eb51.jpg",
+    "static/media/salmon.jpg": "/plswork/static/media/salmon.bdd5622978bafd7a45f3.jpg",
+    "static/media/pasta.jpg": "/plswork/static/media/pasta.c3213cd8b0c15487b5c8.jpg",
+    "static/media/chocolate.jpg": "/plswork/static/media/chocolate.fd3c45cd07ef3fdf8c8b.jpg",
+    "static/media/pizza.jpg": "/plswork/static/media/pizza.1bdeefe906703379b5f5.jpg",
+    "index.html": "/plswork/index.html",
+    "main.032ca359.css.map": "/plswork/static/css/main.032ca359.css.map",
+    "main.f90c2acc.js.map": "/plswork/static/js/main.f90c2acc.js.map",
+    "453.b924f6b6.chunk.js.map": "/plswork/static/js/453.b924f6b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032ca359.css",
+    "static/js/main.f90c2acc.js"
+  ]
+}
